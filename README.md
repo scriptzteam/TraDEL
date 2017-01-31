@@ -1,2 +1,2 @@
 # TraDEL
-Transmission complete deleter :)
+Transmission-daemon complete deleter :)
